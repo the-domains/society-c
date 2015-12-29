@@ -1,7 +1,7 @@
 name: Society C.
 favicon: null
-layout_spectrum: 0.5836635367013514
-typography_spectrum: 0.22919110511429608
+layout_spectrum: 1
+typography_spectrum: 0.8281
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#282828'
+    - '#f8f8f8'
+    - '#515151'
+    - '#929292'
+    - '#707070'
   brandStrength: 0.09700057189911604
   lightness: 0.5471496083773673
-  saturation: 0.8139236259739846
+  saturation: 0
   rhythmicContrast: 0.895662211580202
 purpose: []
